@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="ja">
+	<head>
+		<meta charset="utf-8">
+		<title>Project Nyann</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<h1>吾輩は猫である</h1>
+		<p>吾輩は猫である。名前はまだ無い。</p>
+	</body>
+</html>
