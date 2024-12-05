@@ -21,14 +21,14 @@
 
 <h2>スキル</h2>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-'''java
+
     public Chuong() {
         this.backend = List.of("C", "Java", "C#");
         this.frontend = List.of("HTML", "CSS");
         this.database = List.of("MySQL");
         this.challenge = "My challenge is Data Analysis";
     }
-'''
+
 
 <h2>主なプロジェクト</h2>
 <p>無し</p>
